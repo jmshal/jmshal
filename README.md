@@ -1,7 +1,7 @@
-Sup.
+Hi! 👋 I'm Jacob, a software developer from New Zealand.
 
-I've been building things on the web for over 16 years now.
+I've been building things on the web for over 17 years now.
 
-At the moment I spend most of my time using; JavaScript, TypeScript, React, and Go.
+I spend most of my time writing JavaScript, TypeScript, React, and Go.
 
-I build stuff at [PageProof](https://pageproof.com) - the world's first fully encrypted review and approval service.
+If you want to get in touch, feel free to drop me a DM via [Twitter](https://twitter.com/heyimjacooob) or shoot me an [email](mailto:github@jacob.dev).

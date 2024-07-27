@@ -1,6 +1,6 @@
 Hi! 👋 I'm Jacob, a 28 year old software developer from New Zealand.
 
-I've been building things on the web for over 19 years now.
+I've been building things on the web for over 20 years now.
 
 I spend most of my time writing JavaScript, TypeScript, React, and Go. But I'm currently learning Rust!
 

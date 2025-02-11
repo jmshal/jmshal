@@ -1,4 +1,4 @@
-Hi! 👋 I'm Jacob, a 28 year old software developer from New Zealand.
+Hi! 👋 I'm Jacob, a 29 year old software developer from New Zealand.
 
 I've been building things on the web for over 20 years now.
 
